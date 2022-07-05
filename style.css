@@ -58,12 +58,22 @@ p {
 .about-area p {
     padding-right: 70px;
 }
+.recipie-header h2, 
+.recipie-header p {
+    text-align: center;
+    width: 620px;
+    margin: 30px auto;
+}
+.recipie-header h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
 .recipie-area .recipie-item {
     width: 44%;
     box-shadow: 10px 10px 40px gray;
     padding: 20px;
     border-radius: 30px;
- }
+}
 .recipie-area .recipie-item:nth-child(1) {
     margin-left: 5%;
     margin-right: 1%;
